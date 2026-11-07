@@ -31,15 +31,15 @@ To run `problems.ipynb`, you can follow these steps:
 
 The notebook depends on several key Python packages listed in requirements.txt, including:
 
-numpy (for numerical arrays)
+- numpy (for numerical arrays)
 
-pandas (for data manipulation and dataframes)
+- pandas (for data manipulation and dataframes)
 
-matplotlib (for plotting and visualizations)
+- matplotlib (for plotting and visualizations)
 
-seaborn (for statistical data visualization)
+- seaborn (for statistical data visualization)
 
-statsmodels (for statistical modeling)
+- statsmodels (for statistical modeling)
 
 ## About the Notebook
 

@@ -1,0 +1,14 @@
+# Interactive Python shell.
+ipython
+# Data Frames.
+pandas
+# Numerical arrays
+numpy
+# Plotting.
+matplotlib
+# Statistical data visualization.
+seaborn
+# Jupyter notebook
+ipykernel
+# Statistical modeling.
+statsmodels
